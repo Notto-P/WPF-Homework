@@ -1,0 +1,15 @@
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\bin\Debug\Homework WPF app.exe.config
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\bin\Debug\Homework WPF app.exe
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\bin\Debug\Homework WPF app.pdb
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app.csprojAssemblyReference.cache
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\MainWindow.g.cs
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\App.g.cs
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app_MarkupCompile.cache
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app_MarkupCompile.lref
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\MainWindow.baml
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app.g.resources
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework_WPF_app.Properties.Resources.resources
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app.csproj.GenerateResource.cache
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app.csproj.CoreCompileInputs.cache
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app.exe
+D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\Homework WPF app\Homework WPF app\obj\Debug\Homework WPF app.pdb
