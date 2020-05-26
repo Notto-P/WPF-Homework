@@ -84,21 +84,23 @@ namespace ArrayList_Homework
                 }
                 else
                 {
+                    int checkData = 1;
                     foreach (string dataInArray in arrayList)
                     {
                         if (dataInArray == tb_input.Text)  //ถ้าเจอข้อมูลที่เหมือนกับที่ใส่ในกล่องข้อความให้ลบออก และ break ออกจากลูป
                         {
                             arrayList.Remove(tb_input.Text);
                             MessageBox.Show("Removed '" + tb_input.Text + "' from the collection");
+                            checkData = 2;
                             break;
                         }
-                        else  //ถ้าไม่เจอข้อมูลที่จะลบ
-                        {
-                            MessageBox.Show("'" + tb_input.Text + "' is not found in collection");
-                        }
+                    }
+                    if (checkData == 1)  //ถ้าไม่เจอข้อมูลที่จะลบ
+                    {
+                        MessageBox.Show("'" + tb_input.Text + "' is not found in collection");
                     }
                 }
-                
+
                 tb_input.Clear();
             }
         }

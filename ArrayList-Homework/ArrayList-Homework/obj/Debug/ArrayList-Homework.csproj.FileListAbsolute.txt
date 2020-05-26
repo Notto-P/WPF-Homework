@@ -13,3 +13,18 @@ D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\ArrayList-H
 D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.csproj.CoreCompileInputs.cache
 D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.exe
 D:\About_learning\Coding\C# - professional_BornToDev\Lecture\WPF App\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.pdb
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\bin\Debug\ArrayList-Homework.exe.config
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\bin\Debug\ArrayList-Homework.exe
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\bin\Debug\ArrayList-Homework.pdb
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.csprojAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\App.g.cs
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework_MarkupCompile.cache
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework_MarkupCompile.lref
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\MainWindow.baml
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.g.resources
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList_Homework.Properties.Resources.resources
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.csproj.GenerateResource.cache
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.exe
+C:\Users\acer\Documents\GitHub\WPF-Homework-test\ArrayList-Homework\ArrayList-Homework\obj\Debug\ArrayList-Homework.pdb
